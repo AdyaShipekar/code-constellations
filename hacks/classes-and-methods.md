@@ -145,10 +145,9 @@ a// Paddle class
     }
 ```
 
-# Brick
-```js
 # Brick Class
 Methods not included
+
 ```js
  // Brick class
   class Brick extends GameObject {
