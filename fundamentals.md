@@ -9,5 +9,10 @@ permalink: /fundamentals
 
 <div class="button-row">
   <a href="{{site.baseurl}}/conditionals" class="button small">Conditionals</a>
-  <a href="{{site.baseurl}}/csse/javascript/fundamentals/classes-and-methods-lesson" class="button small">Classes and Methods</a>
+  <a href="{{site.baseurl}}/csse/fall_2025/javascript/classes-and-methods/lesson" class="button small">Classes and Methods</a>
+</div>
+
+<div class="button-row">
+  <a href="{{site.baseurl}}/conditionals" class="button small">Conditionals</a>
+  <a href="{{site.baseurl}}/csse/fall_2025/javascript/classes-and-methods/homework" class="button small">Classes and Methods</a>
 </div>
