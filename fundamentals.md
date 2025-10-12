@@ -8,11 +8,11 @@ permalink: /fundamentals
 ## OOP Breakout Fundamentals:
 
 <div class="button-row">
-  <a href="{{site.baseurl}}/conditionals" class="button small">Conditionals Lesson</a>
+  <a href="{{site.baseurl}}/csse/javascript/constellators/conditionals-lesson" class="button small">Conditionals Lesson</a>
   <a href="{{site.baseurl}}/csse/fall_2025/javascript/classes-and-methods/lesson" class="button small">Classes and Methods Lesson</a>
 </div>
 
 <div class="button-row">
-  <a href="{{site.baseurl}}/conditionals" class="button small">Conditionals HW</a>
+  <a href="{{site.baseurl}}//csse/javascript/constellators/conditionals-hw" class="button small">Conditionals HW</a>
   <a href="{{site.baseurl}}/csse/fall_2025/javascript/classes-and-methods/homework" class="button small">Classes and Methods HW</a>
 </div>
